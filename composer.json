@@ -1,0 +1,16 @@
+{
+  "name": "laravel/laravel",
+  "description": "The Laravel Framework.",
+  "keywords": [
+    "framework",
+    "laravel"
+  ],
+  "license": "MIT",
+  "type": "project",
+  "require": {
+    "php": "^8.0",
+    "laravel/framework": "^10.0",
+    "laravel/tinker": "^2.0",
+    "stripe/stripe-php": "^14.8"
+  }
+}
