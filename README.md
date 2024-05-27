@@ -145,11 +145,4 @@ Contributions are welcome! Please follow these steps:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
-
-If you have any questions or suggestions, feel free to reach out:
-
-- Email: your.email@example.com
-- GitHub: [yourusername](https://github.com/yourusername)
-
 Thank you for checking out the Online Marketplace backend!
